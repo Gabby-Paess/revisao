@@ -292,4 +292,9 @@ body {
 }
 .menus{
     flex-direction: column;
+
+}
+.rodape{
+    flex-direction: column-reverse;
+    height: auto;
 }
